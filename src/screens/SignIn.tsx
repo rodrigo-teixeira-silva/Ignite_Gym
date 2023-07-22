@@ -1,3 +1,4 @@
+
 import { useNavigation } from "@react-navigation/native"
 
 import {VStack, Image, Text, Center, Heading, ScrollView } from 'native-base'
@@ -65,7 +66,9 @@ export function SignIn(){
             <Button 
                 title="Criar conta" 
                 variant="outline"
+
                 onPress={handleNewAccount}
+              
             />
         </Center>
     </VStack>
