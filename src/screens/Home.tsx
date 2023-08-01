@@ -8,8 +8,6 @@ import { HomeHeader } from "@components/HomeHeader";
 import { Group } from "@components/Group";
 import { ExercisesCard } from "@components/ExercisesCard";
 
-
-
 export function Home(){
     const [Groups, setGroups] = useState(["Costas","Biceps","Triceps","Ombro"])
     const [groupSelected, setGroupSelected] = useState('Costas');

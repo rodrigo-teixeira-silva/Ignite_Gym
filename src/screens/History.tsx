@@ -4,7 +4,6 @@ import { Heading, VStack, SectionList, Text, Flex} from "native-base";
 import { ScreenHeader } from "@components/ScreenHeader";
 import { HistoryCard} from "@components/HistoryCard";
 
-
 export function History(){
     const [exercises, setExercises] = useState([
         {
