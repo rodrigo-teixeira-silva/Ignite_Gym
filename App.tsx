@@ -9,7 +9,6 @@ import { Loading } from '@components/loading';
 
 import { THEME } from './src/theme'
 
-
 export default function App() {
  
     const [fontLoaded] = useFonts({ Roboto_400Regular, Roboto_700Bold }); 
