@@ -66,6 +66,7 @@ export function SignIn(){
                 title="Criar conta" 
                 variant="outline"
                 onPress={handleNewAccount}
+
             />
         </Center>
     </VStack>
