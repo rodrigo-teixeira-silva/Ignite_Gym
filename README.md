@@ -24,7 +24,6 @@ Aplicação utilizando framework react native na pratica, SignIn, SignUp, tela p
 # Tecnologias utilizadas
 ## Aplicação
 
-- [React Native](https://reactnative.dev/docs/getting-started)
 - [Native base](https://nativebase.io)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [Expo](https://docs.expo.dev/?utm_source=google&utm_medium=cpc&utm_content=search&gclid=CjwKCAjwxOymBhAFEiwAnodBLE4O6-g49a-HniPnrQt_l-6t_CNvui4z2_h31jUCUpesirHbFYmI_hoC39IQAvD_BwE)
