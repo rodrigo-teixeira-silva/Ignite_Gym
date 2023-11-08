@@ -1,7 +1,7 @@
 
 ## 💻 Projeto
 
-# Igniteshoesapp
+# Ignite Gym
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/linkdri1/Ignite_Gym/blob/rotas_privadas/LICENSE)
 
