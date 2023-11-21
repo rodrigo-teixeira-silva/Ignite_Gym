@@ -52,7 +52,7 @@ Aplicação utilizando framework react native na pratica, SignIn, SignUp, tela p
 
 ```bash
 # clonar repositório
-git clone https://github.com/linkdri1/Projeto_ImHere.git
+https://github.com/rodrigo-teixeira-silva/Ignite_Gym.git
 
 # entrar na pasta do projeto.
 cd Projeto Ignite_Gym
