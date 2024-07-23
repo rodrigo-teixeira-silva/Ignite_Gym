@@ -14,9 +14,17 @@ Aplicação com lista de treinos diários com react-native, componentes estiliza
 Aplicação utilizando framework react native na pratica, SignIn, SignUp, tela principal cards treinos diarios, tela de edição com acesso netivo a galeria de fotos. 
 
 ## Layout mobile
-![Tela SignIn](./assets/imagem-2.png)
-![Tela de SignUp](./assets/imagem-3.png)
-![Tela Home](./assets/imagem-4.png)
+|  Tela SignIn  |   Tela de SignUp  |     Tela Home    |
+| ------------- | ----------------- | ---------------- | 
+| <img src="./assets/imagem-2.png" width="200px" height="400px" style="padding-right: 10px;"/> | <img src="./assets/imagem-3.png" width="200px" height="400px" style="padding-left: 10px;"/> | <img src="./assets/imagem-4.png" width="200px" height="400px" style="padding-left: 10px;"/> |
+
+|  Tela Treino  |  Tela de histórico de execícios  |  Tela de perfil]   |
+| ------------- | -------------------------------- | ------------------ | 
+| <img src="./assets/imagem-5.png" width="200px" height="400px" style="padding-right: 10px;"/> | <img src="./assets/imagem-6.png" width="200px" height="400px" style="padding-left: 10px;"/> | <img src="./assets/imagem-7.png" width="200px" height="400px" style="padding-left: 10px;"/>  |
+
+
+
+
 ![Tela Treino](./assets/imagem-5.png)
 ![Tela de histórico de execícios](./assets/imagem-6.png)
 ![Tela de perfil](./assets/imagem-7.png)
